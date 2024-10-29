@@ -1,0 +1,11 @@
+/* set the style for the photo */
+.author {
+  margin-top:3px;
+}
+.avatar-96 {
+  float:left;
+  margin-top:3px;
+  margin-bottom:1px;
+  margin-left:3px;
+  margin-right:6px;
+}
